@@ -47,7 +47,7 @@
     "spacing": 0
   },
   "pulseaudio#source": {
-    "format": "{icon} {volume}%",
+    "format": "{icon}  {volume}%",
     "format-muted": "󰝟",
     "tooltip": true,
     "tooltip-format": "Volume: {volume}%",
